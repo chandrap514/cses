@@ -1,0 +1,4 @@
+#files that should not be trackd by git
+
+*.exe
+*.json 
