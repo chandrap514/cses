@@ -6,4 +6,3 @@ Created this branch just to explore the brnaching on github directly.
 Will merge all the branches now.
 This line is to check the revert option.
 This line is to check the revert option. To make more commits.
-This line is to check the revert option. To make some more commits.
