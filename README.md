@@ -5,3 +5,4 @@ Learning git using W3Schools tutorial. https://www.w3schools.com/git/git_pull_fr
 Created this branch just to explore the brnaching on github directly.
 Will merge all the branches now.
 This line is to check the revert option.
+This line is to check the revert option. To make more commits.
